@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "335929467696",
+    "firebase_url": "https://deneme-46334.firebaseio.com",
+    "project_id": "deneme-46334",
+    "storage_bucket": "deneme-46334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335929467696:android:4871b3dfe5f72a5c6b9ef5",
+        "android_client_info": {
+          "package_name": "com.exercise17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335929467696-6eabbbac26jjk6l39dfr4fkq53jj4m3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB768qj0OnwnQQ7q2vVyKcnjuOmGNe1j_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335929467696-6eabbbac26jjk6l39dfr4fkq53jj4m3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335929467696-bru5p6bd0dei6ilu6jc1ege5cosjogla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exercise16"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335929467696:android:7b0b0c251e3219c86b9ef5",
+        "android_client_info": {
+          "package_name": "com.exercise18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335929467696-6eabbbac26jjk6l39dfr4fkq53jj4m3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB768qj0OnwnQQ7q2vVyKcnjuOmGNe1j_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335929467696-6eabbbac26jjk6l39dfr4fkq53jj4m3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335929467696-bru5p6bd0dei6ilu6jc1ege5cosjogla.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exercise16"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
